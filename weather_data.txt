@@ -1,0 +1,7 @@
+
+Weather Information of Mumbai on 22 Jun 2021 | 08:57:47 PM
+
+Weather Description : haze
+Temperature         : 29.99 Degrees Celsius
+Humidity            : 79%
+Wind speed          : 4.12 kmph
